@@ -52,7 +52,7 @@ program
 							pdf.create(html, {
 								width: '297mm',
 								height: '400mm',
-							}, 
+							},
 							function(err, buffer) {
 								if (err) {
 									console.log(err);
@@ -68,7 +68,7 @@ program
 										var _path = process.cwd() + finalPdfLocation;
 										fs.writeFileSync(_path, buffer);
 									} catch (err) {
-    									console.log("Problem writing " + _path + " : " + err.message)
+    									console.log("Problem writing " + _path + " : " + err.message);
 									    process.exit(1);
 									}
 								}

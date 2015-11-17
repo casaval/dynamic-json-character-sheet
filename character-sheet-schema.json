@@ -1,0 +1,135 @@
+{
+	"character_sheet": {
+		"basic_information" : {
+			"full_name": "",
+			"nickname": "",
+			"player_name":"",
+			"race": "",
+			"alignment": "",
+			"birthplace": "",
+			"religion": "",
+		},
+		"base_stats":{
+			"strenth":"",
+			"dexterity":"",
+			"constitution":"",
+			"intelligence":"",
+			"wisdom":"",
+			"charisma":""
+		},
+		"experience":{
+			"level":"",
+			"experience":"",
+			"inspiration":""
+		},
+		"backstory": {
+			"appearance":"",
+			"personality_traits":"",
+			"ideals":"",
+			"bonds":"",
+			"flaws":"",
+			"other_backstory":""
+		},
+		"combat":{
+			"proficiency_bonus":"",
+			"proficiencies":"",
+			"initative":"",
+			"speed":"",
+			"armor_class":"",
+			"hit_dice":"",
+			"hit_points":"",
+		},
+		"attacks":[
+			{
+				"item-attacks":{
+					"name":"",
+					"attack_bonus":"",
+					"damage":"",
+					"type":"",
+					"description":""
+				}
+			}
+		],
+		"feats":[
+			{
+				"item-feats":{
+					"name":"",
+					"description":""
+				}
+			}
+		],
+		"skills": [
+			{
+				"item-skills":{
+					"name":"",
+					"description":""
+				}
+			}
+		],
+		"racial_features":[
+			{
+				"item-racial_features":{
+					"name":"",
+					"description":""
+				}
+			}
+		],
+		"class_features":[
+			{
+				"item-class_features":{
+					"name":"",
+					"description":""
+				}
+			}
+		],
+		"spells": [
+			{
+				"item-spells": {
+					"name": "",
+					"type":"",
+					"level":"",
+					"school":"",
+					"components":"",
+					"casting_time":"",
+					"duration":"",
+					"description":"",
+				}
+			}
+		],
+		"languages": [
+			{
+				"item-languages": {
+					"name": "",
+					"additional-info": ""
+				}
+			},
+		],
+		"equipment":[
+			{
+				"item-equipment":{
+					"name":"",
+					"type":"",
+					"slot":"",
+					"description":""
+				}
+			}
+		],
+		"money":{
+			"cp":"",
+			"sp":"",
+			"gp":"",
+			"pp":""
+		},
+		"treasure":[
+			{
+				"item-treasure":{
+					"name":"",
+					"description":""
+				}
+			}
+		],
+		"notes":"",
+		"extra":[
+		]
+	}
+}
